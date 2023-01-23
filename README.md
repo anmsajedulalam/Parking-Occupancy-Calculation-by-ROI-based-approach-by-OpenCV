@@ -2,8 +2,8 @@
 
 ## YouTube Demo:
 
-** Demo 1: ** https://youtu.be/SzC1e2sK490
-** Demo 2: ** https://youtu.be/opUfuQteBIE
+<b>Demo 1:</b>  https://youtu.be/SzC1e2sK490
+Demo 2:  https://youtu.be/opUfuQteBIE
 
 ## Used IDE:
 
