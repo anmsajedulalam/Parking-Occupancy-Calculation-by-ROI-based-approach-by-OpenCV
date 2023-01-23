@@ -8,6 +8,6 @@ https://youtu.be/SzC1e2sK490
 
 Thonny
 
-## Used Libraries:
+## Used Libraries and Packages:
 
-OpenCV, 
+OpenCV, Pickle, NumPy
